@@ -36,4 +36,5 @@ Features include **host discovery**, **port scanning**, **banner grabbing**, **O
 git clone https://github.com/Alleybo33/network-scanner.git
 cd network-scanner
 
-
+### 2. Create and Activate Virtual Environment
+```bash
