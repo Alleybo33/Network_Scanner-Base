@@ -35,4 +35,5 @@ Features include **host discovery**, **port scanning**, **banner grabbing**, **O
 ```bash
 git clone https://github.com/Alleybo33/network-scanner.git
 cd network-scanner
+sudo python3 network_scanner.py -t 192.168.1.0/24 
 
